@@ -40,11 +40,6 @@ Here are some of the key projects I’ve worked on:
 - **Technologies**: Node.js, Express, MongoDB, Stripe API
 - **GitHub Repo**: [Link to GitHub Repo](https://github.com/yourusername/e-commerce)
 
-### 3. **[Network Configuration Tool](https://yournetworktool.com)**
-
-- **Description**: A tool for configuring and managing network settings.
-- **Technologies**: Python, Flask, Netmiko
-- **GitHub Repo**: [Link to GitHub Repo](https://github.com/yourusername/network-tool)
 
 ---
 
