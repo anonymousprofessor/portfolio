@@ -1,6 +1,6 @@
-# 🌟 Portfolio of Lucky
+# 🌟 Hey, I’m **Lucky**! 
 
-Hey, I’m **Lucky**! Welcome to my **Portfolio**. Here, you'll find a collection of my projects, skills, and experiences in the field of **web development**, **networking**, and **cybersecurity**.
+Welcome to my **Portfolio**. Here, you'll find a collection of my projects, skills, and experiences in the field of **web development**, **networking**, and **cybersecurity**.
 
 ---
 
