@@ -71,7 +71,7 @@ Feel free to reach out to me for collaboration, project inquiries, or just a fri
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made_with❤️-By_Lucky-%23FF5733?style=for-the-badge" />
+  <img src="img/made_for_dev.svg" />
 </p>
 
 <p align="center">🚀 Let’s create something amazing together! 💻</p>
