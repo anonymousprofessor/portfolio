@@ -65,7 +65,6 @@ I approach every project with a **problem-solving mindset**. My process involves
 Feel free to reach out to me for collaboration, project inquiries, or just a friendly chat!  
 
 - **Email**: [lakshayjofficial@gmail.com](mailto:lakshayjofficial@gmail.com)
-- **LinkedIn**: [Lucky's LinkedIn](https://www.linkedin.com/in/lucky)
 - **GitHub**: [Lucky's GitHub](https://github.com/yourusername)
 
 ---
